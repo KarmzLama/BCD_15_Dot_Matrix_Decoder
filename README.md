@@ -12,6 +12,7 @@ This project implements a BCD-to-15-dot matrix decoder in Verilog, entirely simu
 
 # Dot Matrix Layout
 The 15 dots are arranged ina 5-row by 3-column matrix:
+
 |a1 a2 a3|
 |b1 b2 b3|
 |c1 c2 c3|
